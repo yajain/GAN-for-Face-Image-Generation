@@ -23,3 +23,8 @@ The output is an image of shape `32x32x3`.
 
 ## Files
 GAN-Face-Generator notebook is the mainfile that you need to run.
+
+train_sample.pkl contains some of the generated samples from the generator while training
+
+## Dependancies
+Python 3.x, PyTorch
